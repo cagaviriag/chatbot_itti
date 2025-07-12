@@ -1,0 +1,314 @@
+[
+  {
+    "pregunta": "¿Qué tipo de credencial tienen las tarjetas de débito?",
+    "respuesta_esperada": "Las tarjetas de débito tienen una credencial Mastercad."
+  },
+  {
+    "pregunta": "¿Qué tasa me aplicarían si pido un préstamo o crédito?",
+    "respuesta_esperada": "Dependerá de tu perfil; las tasas comienzan desde el 1% mensual."
+  },
+  {
+    "pregunta": "¿Qué se evalúa en el estudio de crédito para un préstamo?",
+    "respuesta_esperada": "Se evalúa el historial crediticio, antigüedad, score en centrales de riesgo y capacidad de endeudamiento."
+  },
+  {
+    "pregunta": "¿Qué requisitos hay para una tarjeta de débito?",
+    "respuesta_esperada": "No tengo la informacion suficiente para responder esta pregunta"
+  },
+  {
+    "pregunta": "¿Qué pasa si tengo mal historial crediticio?",
+    "respuesta_esperada": "Puede afectar la aprobación del préstamo, ya que se evalúa tu perfil crediticio."
+  },
+  {
+    "pregunta": "¿Qué pasa si solo hago el pago mínimo?",
+    "respuesta_esperada": "El resto del saldo generará intereses, lo ideal es pagar más del mínimo."
+  },
+  {
+    "pregunta": "¿Qué pasa si no pago la tarjeta de crédito?",
+    "respuesta_esperada": "Se generarán intereses y puede afectar tu historial crediticio."
+  },
+  {
+    "pregunta": "¿Qué pasa si me atraso en el pago del préstamo o crédito?",
+    "respuesta_esperada": "Se te cobrarán intereses moratorios y tu historial crediticio puede verse afectado."
+  },
+  {
+    "pregunta": "¿Qué ocurre si pago después del 15?",
+    "respuesta_esperada": "Se pueden generar intereses si el pago fue posterior a la fecha de corte del 15."
+  },
+  {
+    "pregunta": "¿Qué montos puedo solicitar en un crédito o préstamo personal?",
+    "respuesta_esperada": "Puedes solicitar entre 500 y 30.000."
+  },
+  {
+    "pregunta": "¿Qué incluye el estudio de crédito?",
+    "respuesta_esperada": "Incluye historial crediticio, score, antigüedad y capacidad de endeudamiento."
+  },
+  {
+    "pregunta": "¿Qué documentos se necesitan para un préstamo o crédito?",
+    "respuesta_esperada": "Depende de tu perfil. Se requiere documentación mínima según si eres empleado o independiente."
+  },
+  {
+    "pregunta": "¿Qué debo hacer para obtener un préstamo o crédito?",
+    "respuesta_esperada": "Debes pasar un estudio crediticio y presentar documentación según tu perfil."
+  },
+  {
+    "pregunta": "¿Qué beneficios tiene la tarjeta de débito?",
+    "respuesta_esperada": "No tiene cuota de manejo, permite uso internacional y compras por internet con seguridad."
+  },
+  {
+    "pregunta": "¿Puedo usar mi tarjeta de débito para pagar en el extranjero?",
+    "respuesta_esperada": "¡Claro! Nuestras tarjetas de débito funcionan internacionalmente. Solo asegúrate de habilitar el uso internacional antes del viaje."
+  },
+  {
+    "pregunta": "¿Puedo usar la tarjeta de débito en línea?",
+    "respuesta_esperada": "Sí, tiene datos necesarios para compras por internet como código de seguridad y fecha de vencimiento."
+  },
+  {
+    "pregunta": "¿Puedo usar la tarjeta de crédito para hacer compras por internet?",
+    "respuesta_esperada": "Sí, puedes usarla para compras por internet, incluyendo internacionales."
+  },
+  {
+    "pregunta": "¿Puedo usar el total del cupo para avances?",
+    "respuesta_esperada": "Sí, puedes usar el total del cupo disponible para avances."
+  },
+  {
+    "pregunta": "¿Puedo pagar el préstamo o crédito por transferencia?",
+    "respuesta_esperada": "Sí, puedes pagar por transferencia desde tu cuenta."
+  },
+  {
+    "pregunta": "¿Puedo pagar el préstamo o crédito antes del plazo?",
+    "respuesta_esperada": "No tengo la informacion suficiente para responder esta pregunta"
+  },
+  {
+    "pregunta": "¿Puedo hacer sobregiros con la tarjeta de débito?",
+    "respuesta_esperada": "No, las tarjetas de débito no permiten sobregiros."
+  },
+  {
+    "pregunta": "¿Puedo hacer pagos por PSE?",
+    "respuesta_esperada": "Sí, puedes hacer pagos por PSE para tus préstamos."
+  },
+  {
+    "pregunta": "¿Puedo hacer pagos con contacto con la tarjeta de débito?",
+    "respuesta_esperada": "Sí, puedes realizar pagos con contacto con tu tarjeta de débito."
+  },
+  {
+    "pregunta": "¿Puedo hacer compras internacionales con la tarjeta de crédito?",
+    "respuesta_esperada": "Sí, puedes realizar compras internacionales con tu tarjeta de crédito."
+  },
+  {
+    "pregunta": "¿Puedo hacer avances con mi tarjeta de crédito?",
+    "respuesta_esperada": "Sí, puedes hacer avances por el total del cupo disponible."
+  },
+  {
+    "pregunta": "¿Puedo cambiar el cupo de mi tarjeta de crédito?",
+    "respuesta_esperada": "No tengo la informacion suficiente para responder esta pregunta"
+  },
+  {
+    "pregunta": "¿Me cobran intereses si hago el pago mínimo?",
+    "respuesta_esperada": "Sí, sobre el saldo restante se generan intereses al pagar solo el mínimo."
+  },
+  {
+    "pregunta": "¿Las tarjetas de débito tienen cuota de manejo?",
+    "respuesta_esperada": "No, nuestras tarjetas de débito no tienen cuota de manejo."
+  },
+  {
+    "pregunta": "¿Las tarjetas de crédito tienen cuota de manejo?",
+    "respuesta_esperada": "No, nuestras tarjetas de crédito no tienen cuota de manejo."
+  },
+  {
+    "pregunta": "¿La tarjeta de débito tiene código de seguridad?",
+    "respuesta_esperada": "Sí, tiene un código de seguridad para compras por internet."
+  },
+  {
+    "pregunta": "¿La tarjeta de débito sirve para compras por internet?",
+    "respuesta_esperada": "Sí, tiene fecha de vencimiento y código de seguridad, lo que permite realizar compras por internet."
+  },
+  {
+    "pregunta": "¿La tarjeta de crédito tiene contacto?",
+    "respuesta_esperada": "Si puedes realizar pagos con contacto"
+  },
+  {
+    "pregunta": "¿La fecha de corte de la tarjeta se puede cambiar?",
+    "respuesta_esperada": "Sí, la fecha de corte puede modificarse."
+  },
+  {
+    "pregunta": "¿El préstamo personal o crédito tiene cuota de manejo?",
+    "respuesta_esperada": "No tengo la informacion suficiente para responder esta pregunta"
+  },
+  {
+    "pregunta": "¿Desde qué tasa aplican los préstamos o crédito personales?",
+    "respuesta_esperada": "Desde el 1% mensual, según tu perfil."
+  },
+  {
+    "pregunta": "¿Cuánto es el pago mínimo si debo 5.000?",
+    "respuesta_esperada": "El pago mínimo alternativo sería de 50, ya que corresponde al 1% del saldo."
+  },
+  {
+    "pregunta": "¿Cuándo es la fecha de corte de la tarjeta de crédito?",
+    "respuesta_esperada": "La fecha de corte es el 15 de cada mes, aunque puede modificarse."
+  },
+  {
+    "pregunta": "¿Cuál es la tasa de interés de las tarjetas de crédito?",
+    "respuesta_esperada": "La tasa de interés promedio es del 2% mensual."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo mínimo para pagar un préstamo o crédito?",
+    "respuesta_esperada": "El plazo mínimo es de 6 meses."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para pagar un préstamo o crédito?",
+    "respuesta_esperada": "El plazo máximo es de 60 meses."
+  },
+  {
+    "pregunta": "¿Cuál es el límite mínimo de una tarjeta de crédito?",
+    "respuesta_esperada": "El límite mínimo es de 500."
+  },
+  {
+    "pregunta": "¿Cuál es el límite máximo de una tarjeta de crédito?",
+    "respuesta_esperada": "El límite máximo es de 15.000."
+  },
+  {
+    "pregunta": "¿Cuál es el interés mensual si pido 1.000?",
+    "respuesta_esperada": "Dependerá de tu perfil, pero parte desde el 1% mensual."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el pago mínimo alternativo de la tarjeta de crédito?",
+    "respuesta_esperada": "El pago mínimo alternativo es el 1% del saldo. Por ejemplo, si debes 1.000, el pago mínimo es de 10."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el interés del préstamo o crédito?",
+    "respuesta_esperada": "El interés mensual parte desde el 1% y depende de tu perfil crediticio."
+  },
+  {
+    "pregunta": "¿Cómo saber si califico a un préstamo o crédito?",
+    "respuesta_esperada": "Se evalúa tu perfil según historial crediticio, score, antigüedad y capacidad de endeudamiento."
+  },
+  {
+    "pregunta": "¿Cómo recargo la tarjeta de débito?",
+    "respuesta_esperada": "Puedes recargar tu tarjeta de débito desde tu cuenta bancaria."
+  },
+  {
+    "pregunta": "¿Cómo pago las cuotas del préstamo o crédito?",
+    "respuesta_esperada": "Puedes pagar las cuotas por PSE o transferencia desde tu cuenta."
+  },
+  {
+    "pregunta": "¿Cómo funciona el avance en efectivo de una tarjeta de crédito?",
+    "respuesta_esperada": "Puedes retirar efectivo hasta el total del cupo disponible de tu tarjeta."
+  },
+  {
+    "pregunta": "¿Cómo evito pagar intereses en mi tarjeta de crédito?",
+    "respuesta_esperada": "Para evitar intereses, paga el total facturado antes de la fecha de corte."
+  },
+  {
+    "pregunta": "Hola",
+    "respuesta_esperada": "¡Hola! Bienvenido a NeoBankITTI. Soy ITTIAssistant, tu asistente virtual experto en productos financieros. ¿Con quién tengo el gusto de hablar hoy? Estoy aquí para ayudarte con cualquier consulta sobre nuestras tarjetas de débito, tarjetas de crédito o préstamos personales. ¿En qué puedo asistirte?"
+  },
+  {
+    "pregunta": "muchas gracias",
+    "respuesta_esperada": "De nada. Ha sido un placer poder ayudarte con información sobre nuestros productos financieros. \\n\\nRecuerda que estamos aquí para asistirte en cualquier momento si tienes más preguntas sobre nuestras tarjetas de débito, tarjetas de crédito o préstamos personales. No dudes en contactarnos si necesitas algo más.\\n\\nTe deseo un excelente día. ¡Hasta pronto!"
+  },
+  {
+    "pregunta": "Chao",
+    "respuesta_esperada": "Ha sido un placer poder ayudarte con información sobre nuestros productos financieros. \\n\\nRecuerda que estamos aquí para asistirte en cualquier momento si tienes más preguntas sobre nuestras tarjetas de débito, tarjetas de crédito o préstamos personales. No dudes en contactarnos si necesitas algo más.\\n\\nTe deseo un excelente día. ¡Hasta pronto!"
+  },
+  {
+    "pregunta": "hasta luego",
+    "respuesta_esperada": "Ha sido un placer poder ayudarte con información sobre nuestros productos financieros. \\n\\nRecuerda que estamos aquí para asistirte en cualquier momento si tienes más preguntas sobre nuestras tarjetas de débito, tarjetas de crédito o préstamos personales. No dudes en contactarnos si necesitas algo más.\\n\\nTe deseo un excelente día. ¡Hasta pronto!"
+  },
+  {
+    "pregunta": "mi nombre es ….",
+    "respuesta_esperada": "es un placer atenderte. ¿En qué puedo ayudarte hoy? ¿Tienes alguna consulta sobre nuestros productos financieros, como tarjetas de débito, tarjetas de crédito o préstamos personales?"
+  },
+  {
+    "pregunta": "¿La tarjeta de débito tiene cuota de manejo?",
+    "respuesta_esperada": "No, nuestras tarjetas de débito no tienen cuota de manejo."
+  },
+  {
+    "pregunta": "¿Puedo usar la tarjeta de débito en otro país?",
+    "respuesta_esperada": "Sí, puedes usar tu tarjeta de débito internacionalmente. Solo debes habilitar el uso internacional desde la app móvil antes del viaje."
+  },
+  {
+    "pregunta": "¿Qué pasa si intento comprar sin saldo en la tarjeta de débito?",
+    "respuesta_esperada": "La transacción será rechazada. Nuestras tarjetas de débito no permiten sobregiros."
+  },
+  {
+    "pregunta": "¿Puedo retirar dinero con la tarjeta de débito si no tengo fondos?",
+    "respuesta_esperada": "No, solo puedes usar el saldo disponible en tu tarjeta de débito."
+  },
+  {
+    "pregunta": "¿La tarjeta de débito permite avances en efectivo?",
+    "respuesta_esperada": "No, las tarjetas de débito no permiten avances en efectivo."
+  },
+  {
+    "pregunta": "¿Cuál es el límite mínimo de una tarjeta de crédito?",
+    "respuesta_esperada": "Los límites comienzan desde 500 dólares, determinados según tu perfil crediticio."
+  },
+  {
+    "pregunta": "¿Qué tasa de interés manejan las tarjetas de crédito?",
+    "respuesta_esperada": "La tasa de interés promedio es del 2% mensual sobre el saldo que debas."
+  },
+  {
+    "pregunta": "¿Cuál es la fecha de corte de la tarjeta de crédito?",
+    "respuesta_esperada": "La fecha de corte por defecto es el día 15 de cada mes, aunque puedes modificarla si lo deseas."
+  },
+  {
+    "pregunta": "¿Qué es el pago mínimo alternativo?",
+    "respuesta_esperada": "El pago mínimo alternativo corresponde al 1% del saldo total. Por ejemplo, si tu saldo es de 1.000 dólares, pagarías 10."
+  },
+  {
+    "pregunta": "¿Los avances en cajeros tienen costo?",
+    "respuesta_esperada": "Sí, el avance en cajero tiene un costo de 5 dólares."
+  },
+  {
+    "pregunta": "¿Cuál es el monto mínimo que puedo solicitar en un préstamo?",
+    "respuesta_esperada": "Puedes solicitar desde 500 dólares."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo para pagar un préstamo?",
+    "respuesta_esperada": "Puedes pagar el préstamo en un plazo de hasta 60 meses."
+  },
+  {
+    "pregunta": "¿Qué documentos necesito si soy independiente?",
+    "respuesta_esperada": "Necesitas cédula, extractos bancarios, declaración de renta o RUT."
+  },
+  {
+    "pregunta": "¿Cómo se paga el préstamo?",
+    "respuesta_esperada": "Puedes realizar los pagos a través de PSE o por transferencia desde tu cuenta bancaria."
+  },
+  {
+    "pregunta": "¿Cómo se calcula la tasa del préstamo?",
+    "respuesta_esperada": "La tasa parte desde el 1% mensual y se ajusta según tu perfil de riesgo, basado en tu historial, score y capacidad de pago."
+  },
+  {
+    "pregunta": "¿Puedo abrir una cuenta de ahorros con ustedes?",
+    "respuesta_esperada": "Actualmente no tengo el alcance para responder esa información, ya que me especializo en tarjetas y préstamos."
+  },
+  {
+    "pregunta": "¿Qué tipo de inversiones ofrecen?",
+    "respuesta_esperada": "Lo siento, en este momento no tengo información sobre productos de inversión."
+  },
+  {
+    "pregunta": "¿Tienen seguros para autos o salud?",
+    "respuesta_esperada": "En este momento solo te puedo asesorar sobre tarjetas y préstamos personales."
+  },
+  {
+    "pregunta": "¿Hay que pagar cuota de manejo con la tarjeta débito?",
+    "respuesta_esperada": "No, nuestras tarjetas de débito no tienen cuota de manejo."
+  },
+  {
+    "pregunta": "¿Se puede usar la tarjeta crédito en el extranjero?",
+    "respuesta_esperada": "Sí, puedes usar tu tarjeta de crédito en el extranjero en comercios que acepten pagos con datáfono."
+  },
+  {
+    "pregunta": "¿Qué pasa si no pago el total de mi tarjeta de crédito?",
+    "respuesta_esperada": "Se generarán intereses sobre el saldo que quede pendiente."
+  },
+  {
+    "pregunta": "¿Puedo usar la tarjeta de débito para compras en línea?",
+    "respuesta_esperada": "Sí, puedes usarla para compras en línea utilizando el número de tarjeta, fecha de vencimiento y código de seguridad."
+  },
+  {
+    "pregunta": "¿Cuál es el costo por sacar dinero en un cajero con tarjeta de crédito?",
+    "respuesta_esperada": "Cada avance en cajero tiene un costo de 5 dólares."
+  }
+]

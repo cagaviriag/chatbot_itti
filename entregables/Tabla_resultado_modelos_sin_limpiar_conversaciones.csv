@@ -1,0 +1,17 @@
+﻿tipo_evaluacion;modelo;match_score;faithfulness;answer_relevancy;context_precision;context_recall;evaluacion_llm
+Ragas;claude-3.5-sonnet;;0,55;0,50;0,87;0,52;
+Ragas;llama3-70b;;0,38;0,23;0,73;0,36;
+Ragas;llama3-8b;;0,58;0,54;0,80;0,64;
+Ragas;mistral-7b;;0,44;0,63;0,84;0,50;
+Ragas;titan-express;;0,75;0,68;0,75;0,05;
+ground_truth;claude-3.5-sonnet;0,66;;;;;
+ground_truth;llama3-70b;0,43;;;;;
+ground_truth;llama3-8b;0,60;;;;;
+ground_truth;mistral-7b;0,64;;;;;
+ground_truth;titan-express;0,31;;;;;
+llm;claude-3.5-sonnet;;;;;;0,80
+llm;llama3-70b;;;;;;0,41
+llm;llama3-8b;;;;;;0,61
+llm;mistral-7b;;;;;;0,78
+llm;titan-express;;;;;;0,70
+;;;;;;;
